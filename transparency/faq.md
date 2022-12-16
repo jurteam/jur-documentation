@@ -1,3 +1,3 @@
 # 🙋 FAQ
 
-Join [Discord](https://discord.com/invite/hy8XysxVUZ) and ask questions!
+Join Discord and ask questions!

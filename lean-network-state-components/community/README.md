@@ -16,3 +16,5 @@ The community in Jur is designed to allow members of a community, before organiz
 The module is based on the idea of a New Citizenship Journey. Jur enables the creation of communities that can evolve over time. Members become citizens when they agree on a model of government by signing an on-chain social contract. The Society, at that moment, becomes a State or a Network State.
 
 Jur supports a founder-led Society model. While it might be possible for a group of equals to start a society, the Jur team believes that, like startup businesses, startup societies are likely to be created and driven initially by the passion of a single person.
+
+\

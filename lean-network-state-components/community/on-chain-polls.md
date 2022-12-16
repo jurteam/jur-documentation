@@ -18,3 +18,5 @@ The goal is to allow members of a Society to establish common values on-chain an
 The structure of a Society and the voting mechanism are designed to be flexible and minimalistic. The Founder and the Community can use voting methods to shape the on-chain elements of coexistence however they like. For example, the concept of rule can accommodate very specific simple prescriptions, or refer to external sources (a PDF document) containing an extremely complex regulation.
 
 The Society is flexible and can support Web3 Communities newly created from scratch, but also existing online Web2.0 communities that are strongly aligned. For example, NFT communities and already Web3 communities that support a crypto project.
+
+\

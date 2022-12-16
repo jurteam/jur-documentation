@@ -6,7 +6,7 @@ A Society focused on gaming will have different needs from a society that has a 
 
 Jur's judicial stack includes a modular protocol of dispute resolution mechanisms.
 
-As in the original scope of the project, the stack will offer different types of solutions, potentially linked together. That is, for a case one tool can be used initially, and if a solution is not reached or one party appeals, another tool may be used. Each level of appeal exposes parties to higher costs but higher resolution quality and value. Parties can agree to waive appeal rights to reduce costs.
+As in the original scope of the project, the stack will offer different types of solutions, potentially linked together. That is, for a case one tool can be used initially, and if a solution is not reached or one party appeals, another tool may be used. Each level of appeal exposes parties to higher costs but higher resolution quality and value. Parties can agree to waive appeal rights to reduce costs.&#x20;
 
 \
 There are two main categories of dispute resolution:
@@ -26,3 +26,5 @@ The dispute resolution levels are:
 * **Arbitration:** A legally binding form in which a private judge (arbitrator) makes a legally binding judgment.
 
 They are preceded by techniques and solutions aimed at preventing disputes.
+
+\
