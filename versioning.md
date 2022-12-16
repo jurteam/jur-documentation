@@ -4,8 +4,6 @@ Jur’s official documents follow the Semantic Versioning Standard with a 3-digi
 
 * X stands for major version
 * Y stands for minor version
-* Z stands for patch version &#x20;
+* Z stands for patch version
 
-A changelog is updated for each release and you can find it here.
-
-\
+A changelog is updated for each release and you can find it [here](CHANGELOG.md).

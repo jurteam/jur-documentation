@@ -15,7 +15,7 @@
   * [Sovereign Network State](types-of-network-states/sovereign-network-state.md)
 * [🔍 The Balajian Definition of Network State](the-balajian-definition-of-network-state.md)
 * [🔘 Differences Between Network States And DAOs](differences-between-network-states-and-daos.md)
-* [🇺🇳 🇺🇳 Nation-States and Network States Will Be Complementary](nation-states-and-network-states-will-be-complementary.md)
+* [🇺🇳 Nation-States and Network States Will Be Complementary](nation-states-and-network-states-will-be-complementary.md)
 * [🪟 The Network State Wiki](the-network-state-wiki.md)
 * [🏴 The Lean Network State Model](the-lean-network-state-model/README.md)
   * [🧵 Reinventing The Texture Of Societies](the-lean-network-state-model/reinventing-the-texture-of-societies.md)

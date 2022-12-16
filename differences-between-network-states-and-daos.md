@@ -10,5 +10,4 @@ Network States are value-based, and while they may be decentralized (one member,
 
 <figure><img src="https://lh3.googleusercontent.com/sDArckOd9IdD-oOGK9lvENrGahIYBmc8nlQztYHCPvmTMv4CSyt4_IY15v0qrMYkzDZ31raLkCkApT-t0P_4HNbvESv5_5t5bmxhJPtQgFqsqDuUjF0GeBWkmysj9z8vYNvDuXAe-E04hdJMcbIGAeLsq7qJwDHTwWWyspPOwAU5W3Uj9GkRvH4MOJWAHw" alt=""><figcaption></figcaption></figure>
 
-There could be DAOs that look similar to Network States and Network States that look closer to DAOs. There may be grey areas and edge cases in practice but the two concepts are meaningfully distinct.\
-\
+There could be DAOs that look similar to Network States and Network States that look closer to DAOs. There may be grey areas and edge cases in practice but the two concepts are meaningfully distinct.

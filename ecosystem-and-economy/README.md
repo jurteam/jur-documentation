@@ -1,5 +1,2 @@
 # 🌳 Ecosystem and Economy
 
-
-
-\
