@@ -72,6 +72,7 @@
 * [🙋 FAQ](transparency/faq.md)
 * [⏩ Roadmap](transparency/roadmap.md)
 * [🔁 Versioning](versioning.md)
+* [🔢 Changelog](CHANGELOG.md)
 * [🚩 Milestones](transparency/milestones.md)
 * [☕ About Us](about-us/README.md)
   * [⚡ Partners](about-us/partners.md)
