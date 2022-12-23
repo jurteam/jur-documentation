@@ -4,6 +4,12 @@ All notable changes to the documentation will be updated in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
+## 4.0.1 - 2022-12-22
+### Fixed
+- Typos
+- Broken links
+- Restructured index
+---
 
 ## 4.0.0 - 2022-12-16
 
