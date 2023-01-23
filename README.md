@@ -1,7 +1,13 @@
-# 🌱 About this Documentation
+# 🎯 Jur is building tools for the Network State Revolution
 
-Welcome to the Jur Documentation. This documentation will be updated regularly as new features are added. Updates will be tracked through a [changelog](https://github.com/jurteam/jur-documentation/blob/main/CHANGELOG.md). This documentation is intended to be easy to understand, accessible to anyone whether or not they are familiar with Web3. Separate publications cover topics in greater detail.
+<figure><img src=".gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
 
-We are building Jur to serve a new market of people who want to create and participate in new forms of social organization. You can influence the direction of Jur; [join our community on Discord](https://go.jur.io/doc2discord) to contribute your ideas.
+The first cycle of Web3 adoption belonged to financial applications of distributed ledger technology. In the next cycle we’re seeing non-financial applications achieve adoption and create impact in the offline, physical world. Technological change has created new opportunities but our approaches to social organization have not kept pace. However, for billions of citizens, there is no need more urgent than new forms of social organizations. Jur will offer Web3 technology to support the creation and governance of new societies.
 
-\
+> _**"Jur's mission is bringing power back to the people"**_
+
+With Jur anyone can create new societies and, one day, countries from their computer with a simple internet connection. At the same time, existing states can use Jur’s Web3 technology to ensure transparency and efficiency.
+
+Our vision is that the [Network State](https://thenetworkstate.com/) concept will be described as a spectrum of different approaches. To offer true freedom and to allow individuals to discover the social contracts that are best for them, we need to enable experimentation with many alternative models, a base layer that is flexible and simple for everyone to use.
+
+We are building the best trustless coordination foundation layer for large groups of people, scalable into millions and beyond.

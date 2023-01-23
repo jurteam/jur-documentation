@@ -9,8 +9,3 @@ A Network State represents a new organizational form that can complement or repl
 The Network State is a spectrum of concepts. It includes various typologies and visions of communities, societies, DAOs, Network States and similar ideas. Some social constructs will aim to become real countries, others new forms of purpose-driven communities organized for peaceful action. One of the visions is that of [Balaji Srinivasan](https://balajis.com/about/), most recently expounded in the book "[The Network State](https://thenetworkstate.com/)".
 
 For the purposes of this work, the notion of Network State does not require the existence of a physical territory or diplomatic recognition. The essence of a Network State is in the on-chain social contract between the rulers and the ruled.
-
-\
-
-
-\
