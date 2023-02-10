@@ -48,7 +48,7 @@
 * [🗝 Treasury Module](architecture/treasury-module/README.md)
   * [Treasury](architecture/treasury-module/treasury.md)
   * [Project](architecture/treasury-module/project.md)
-* [🧙♀ 🧙♀ Oracle Module](architecture/oracle-module/README.md)
+* [🧙♀ 🧙♀ 🧙♀ Oracle Module](architecture/oracle-module/README.md)
   * [Oracle](architecture/oracle-module/oracle.md)
   * [Assessment](architecture/oracle-module/assessment.md)
 * [⚖ Dispute Resolution Module](architecture/dispute-resolution-module/README.md)
@@ -80,6 +80,9 @@
   * [weJUR score](jur-economy/usdjur-staking-meta-citizenship/wejur-score.md)
   * [$JUR Staking and the $DOT bonding for parachain slots](jur-economy/usdjur-staking-meta-citizenship/usdjur-staking-and-the-usddot-bonding-for-parachain-slots.md)
 * [❗ Legal Disclaimer](jur-economy/legal-disclaimer.md)
+* [🪙 Tokenomics](jur-economy/tokenomics/README.md)
+  * [Non-Staking Policy](jur-economy/tokenomics/non-staking-policy.md)
+  * [Transparency Policy](jur-economy/tokenomics/transparency-policy.md)
 
 ## More
 
@@ -91,3 +94,5 @@
 * [☕ About Us](more/about-us/README.md)
   * [⚡ Partners](more/about-us/partners.md)
 * [🌿 About this documentation](more/about-this-documentation.md)
+
+## Group 1
