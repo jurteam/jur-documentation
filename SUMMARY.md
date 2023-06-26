@@ -48,7 +48,7 @@
 * [🗝 Treasury Module](architecture/treasury-module/README.md)
   * [Treasury](architecture/treasury-module/treasury.md)
   * [Project](architecture/treasury-module/project.md)
-* [🧙♀ 🧙♀ 🧙♀ Oracle Module](architecture/oracle-module/README.md)
+* [🧙♀ Oracle Module](architecture/oracle-module/README.md)
   * [Oracle](architecture/oracle-module/oracle.md)
   * [Assessment](architecture/oracle-module/assessment.md)
 * [⚖ Dispute Resolution Module](architecture/dispute-resolution-module/README.md)
