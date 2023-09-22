@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Nested Network States.png
+coverY: 0
+---
+
 # Nested Network States
 
 <figure><img src="https://lh6.googleusercontent.com/jTdJINi08i6_h7_9JBHWVxmdNiyKQOtdGQ9dEXdQpLZTqu9UZMmIo25spUCTa27bXUlUSSBer1ul9FpFqV77MI3RaUcdD3b023-h5IgQFwhJsk5nKiMB2DNK8PkTBWnnVHbER8t6rBAE3Y868JacTA4G0MZJPHgKsalisloGZMgsWac8I4KqXbN_N19DNw" alt=""><figcaption></figcaption></figure>

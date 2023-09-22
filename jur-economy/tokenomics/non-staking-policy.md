@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Non-Staking Policy.png
+coverY: 0
+---
+
 # Non-Staking Policy
 
 In order not to prejudice $JUR holders and their weJUR score, Jur commits to not staking with the $JUR tokens in its possession. The vision is to reward active actors of the ecosystem, promoting a progressive decentralization approach.&#x20;

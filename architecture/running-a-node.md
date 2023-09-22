@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Running a Node.png
+coverY: 0
+---
+
 # 🌐 Running a Node
 
 A minimum set of three collators will be maintained by our ecosystem partners to make sure block production proceeds smoothly.

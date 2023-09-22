@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Types of Network States.png
+coverY: 0
+---
+
 # 📡 Types of Network States
 
 Jur supports multiple versions and visions of Network State. The Network States will be a spectrum of realities, in continuous and changing evolution.

@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/weJUR score.png
+coverY: 0
+---
+
 # weJUR score
 
 The weJURs score is an on-chain system for defining $JUR holder’s weight of $JUR staked. The weJUR score is attributed to a wallet and can't be transferred. The initial formula that generates the weJUR score is related to the time and quantity of $JUR tokens staked.&#x20;

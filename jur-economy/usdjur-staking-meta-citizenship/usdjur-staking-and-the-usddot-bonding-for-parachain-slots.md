@@ -1,3 +1,10 @@
+---
+cover: >-
+  ../../.gitbook/assets/$JUR Staking and the $DOT bonding for parachain
+  slots.png
+coverY: 0
+---
+
 # $JUR Staking and the $DOT bonding for parachain slots
 
 The staking of $JUR tokens works similarly, but differently, from the bonding of $DOTs in Polkadot. $DOT holders bond $DOTs in crowdloans to support specific parachains on Polkadot and receive rewards from the crowdloan in which they participated. These rewards are normally paid in parachains' native tokens.&#x20;

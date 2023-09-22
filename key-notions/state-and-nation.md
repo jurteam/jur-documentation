@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/State and Nation.png
+coverY: 0
+---
+
 # 🗺 State and Nation
 
 Throughout history, humankind has worked to define forms of human organization to ensure civil coexistence. They have evolved over the centuries. [The modern nation state is a relatively recent concept, arising only in the past three hundred years.](https://en.wikipedia.org/wiki/Nation\_state)

@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/On-Chain Polls.png
+coverY: 0
+---
+
 # 🗣 On-Chain Polls
 
 Members vote via on-chain polls to establish shared:

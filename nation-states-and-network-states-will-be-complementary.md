@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/Nation-States and Network States Will Be Complementary.png
+coverY: 0
+---
+
 # 🇺🇳 Nation-States and Network States Will Be Complementary
 
 The Internet didn't kill the "traditional economy," rather it pushed the economy into a new dimension. Similarly, new forms of human organizations are coming and change is inevitable, but that does not mean anything will be destroyed. Network states will exist alongside nation states in a complementary relationship.

@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Oracle.png
+coverY: 0
+---
+
 # 🧙 Oracle
 
 The need to make subjective evaluations is a necessity in any organized group. Some assessments may technical in nature, for example assessing the quality of a scientific work and its compliance with scientific publication standards. Other valuations may be non-technical in nature.

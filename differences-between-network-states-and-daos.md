@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/Differences Between Network States And DAOs.png
+coverY: 0
+---
+
 # 🔘 Differences Between Network States And DAOs
 
 <figure><img src="https://lh3.googleusercontent.com/aa2UwE6oQqEQsaXZnOKuhC6E3slqau5a3M2gmfz5yIntzxZHImy9-XcbIOyEzU2fPX4tlY28BxfjfJ-xIYmlnR4Bjtmy9xbG1HFj_tsBUWGsuxyle80O4-xehMYor03ggQievcLNavbVHgtlp_eplMU0KML-i0cPTtj0gvz9PpJPLevTW8Q0Jp36qSEY2w" alt=""><figcaption></figcaption></figure>

@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Dispute.png
+coverY: 0
+---
+
 # Dispute
 
 The Dispute pallet provides all the information relevant to the dispute: plaintiff/defendant accounts, agreement hash, claim hash, resolution proof, resolution deadline, resolution method (e.g. arbitration) and other accessory fields.

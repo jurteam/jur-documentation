@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Services.png
+coverY: 0
+---
+
 # 💁 Services
 
 A state must provide services to citizens. Jur will offer modules aimed at enabling on-chain management of citizen services. The key criterion is the guarantee of transparency in public spending and in the citizen-centric management of the services themselves.

@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/About Us.png
+coverY: 0
+---
+
 # ☕ About Us
 
 Since 2017 we have been engaged in Web3. Jur V1 began in 2018. Since then we have been building the non financial vertical of Web3. As a team we have seen Web3’s potential as a Secure Social Operating System.

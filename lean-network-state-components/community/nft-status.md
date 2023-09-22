@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/NFT Status.png
+coverY: 0
+---
+
 # 🔑 NFT Status
 
 <figure><img src="../../.gitbook/assets/41.png" alt=""><figcaption></figcaption></figure>

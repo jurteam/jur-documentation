@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Ethos Testnet.png
+coverY: 0
+---
+
 # 💓 Ethos Testnet
 
 Ethos is the testnet chain of Jur and contains exactly the same runtime as the production parachain.

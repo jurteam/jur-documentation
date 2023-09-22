@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Court.png
+coverY: 0
+---
+
 # Court
 
 The Court pallet allows an account, the entity responsible for the Court, to add a set of panel members. The head of the Court is responsible for setting a fee for dispute resolution services, and Court parameters like the period allowed for debate/argument and for rendering judgment.

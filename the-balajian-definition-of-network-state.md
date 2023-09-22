@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/The Balajian Definition of Network State.png
+coverY: 0
+---
+
 # 🔍 The Balajian Definition of Network State
 
 In the book [The Network State](https://thenetworkstate.com/), [Balaji Srinivasan](https://balajis.com/) gives an overview of a definition and vision of a Network State. It is based on some essential characteristics.

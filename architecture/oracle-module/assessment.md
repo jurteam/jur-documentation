@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Assessment.png
+coverY: 0
+---
+
 # Assessment
 
 The Assessment pallet envisions a data structure that stores a reference to what is being assessed, approval/rejection counts of the claim and the status (e.g. voting) and the deadline within which the members of the Oracle will be delivering the assessment to the client.

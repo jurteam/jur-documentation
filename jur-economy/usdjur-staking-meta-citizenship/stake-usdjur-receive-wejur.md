@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Stake $JUR, receive weJUR.png
+coverY: 0
+---
+
 # Stake $JUR, receive weJUR
 
 Web3 has learned that there is a need for communities to align for the right reasons. APY, while very attractive, often only encourages economic alignment. Jur aims to support members who believe in the true vision of Network States and cross-citizenships to bring momentum and energy to the ecosystem while being economically aligned. Models of providing ownership to members are continuously evolving. The weJUR score is how Jur provides ownership while capturing and honoring contributions made by members.
@@ -9,11 +14,11 @@ Meta-citizenship allows for staking $JUR and receiving weJUR points based on the
 The meta-citizen Staking Rewards work in this way: &#x20;
 
 * **$JUR Staking.** Staking 1 $JUR tokens produces 1 weJUR point every 24 hours. As such, staking $1JUR continuously throughout the year will add 365 weJUR points to the holder’s weJUR score.
-* ****[**Meta-Citizen Rewards.**](#user-content-fn-1)[^1] A portion of supply of every Society Token is airdropped (0.1% minimum) to meta-citizens in proportion to their weJUR scores during the Initial Society Token Offering. The required 0.1% amount is small enough that it cannot reasonably be seen as a significant burden for any Society Founder. Every Founder can airdrop a higher amount in order to receive more active contributions from meta-citizens:
+* [**Meta-Citizen Rewards.**](#user-content-fn-1)[^1] A portion of supply of every Society Token is airdropped (0.1% minimum) to meta-citizens in proportion to their weJUR scores during the Initial Society Token Offering. The required 0.1% amount is small enough that it cannot reasonably be seen as a significant burden for any Society Founder. Every Founder can airdrop a higher amount in order to receive more active contributions from meta-citizens:
 
 The meta-citizen reward is calculated as follows:
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-01-23 at 20.19.26 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-01-23 at 20.19.26 (1).png" alt=""><figcaption></figcaption></figure>
 
 For example, a Network State issuing $PEACE token will airdrop 0.5% of its 1B token issuance to the meta-citizens, in proportion to their weJUR score. Assuming that a meta-citizen has 10,000 weJUR points and that the total amount of weJUR is 1M, then the reward will be calculated as (10k \* 1B) / 1M = 100k $PEACE.
 

@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Oracle-1.png
+coverY: 0
+---
+
 # Oracle
 
 The Oracle pallet allows the creation of a panel of members that can provide their expertise to assess something in exchange of a fee (optional).

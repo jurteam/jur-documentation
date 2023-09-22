@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/A Web3 Citizen_s Journey.png
+coverY: 0
+---
+
 # 🛣 A Web3 Citizen's Journey
 
 #### A Web3 Citizen’s Journey

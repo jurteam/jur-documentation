@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Ideologic and non-ideologic Network States.png
+coverY: 0
+---
+
 # Ideologic and non-ideologic Network States
 
 <figure><img src="https://lh6.googleusercontent.com/VMdgsu_I949tRfB1NahvrsO8eP1V0fQuwuDgD_RYYVHhZN_0dbdXbti9zcqIMi-DxQMl4KhopO-gnzWYxYhPpKcKDxWsq1NN49a-qj9A8OfnGDBYhwfDFnod_7KSBid0H61XIv5jmNr4UWH5fS90iooa5NwZvcy0_DLSu3NVeCuspFoJK3Ja6UTzbcntCg" alt=""><figcaption></figcaption></figure>

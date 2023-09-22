@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Judiciary (1).png
+coverY: 0
+---
+
 # ⚖ Judiciary
 
 Jur is building a composable protocol to orchestrate a dispute resolution on-chain. The vision is to create flexible modules to allow organizations to easily build the most appropriate dispute resolution or judiciary system for their particular needs.

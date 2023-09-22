@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/$JUR Deflationary Token Model.png
+coverY: 0
+---
+
 # ⏳ $JUR Deflationary Token Model
 
 The $JUR token model is deflationary. The initial $JUR token supply is set at 1B and, as part of the transaction fee to use the Jur Chain, 20% is burned (see [Transaction Fee Distribution](https://app.gitbook.com/o/0gcIfR6h7zg1xTLArrpK/s/jMNQSqk1n74rnFDPrhBu/\~/changes/MDCk1IuX4EPqXimx9US0/jur-economy/transaction-fee-distribution)), effectively taking those tokens out of the circulating supply.&#x20;

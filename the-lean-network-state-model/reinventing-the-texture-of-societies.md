@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Reinventing The Texture Of Societies.png
+coverY: 0
+---
+
 # 🧵 Reinventing The Texture Of Societies
 
 Jur identifies trustless logics that allow the creation and maintenance of new organizational forms or the onboarding of existing ones. Jur redesigns the crossover between society and technology.

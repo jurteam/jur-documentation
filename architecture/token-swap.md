@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Token Swap.png
+coverY: 0
+---
+
 # 💱 Token Swap
 
 Jur’s runtime includes a pallet to migrate tokens from VeChainThor (an EVM compatible chain) towards the new Substrate-based Jur Chain.

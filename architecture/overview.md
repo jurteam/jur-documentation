@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Overview.png
+coverY: 0
+---
+
 # 🔍 Overview
 
 Here is an overview of the current architecture of the Jur Stack which includes:

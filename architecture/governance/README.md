@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Governance.png
+coverY: 0
+---
+
 # 🗳 Governance
 
 Given the current evolution of the Dotsama ecosystem with the introduction of Gov2, Jur’s runtime does not include any democracy related pallets in its first release ([democracy](https://paritytech.github.io/substrate/master/pallet\_democracy/index.html), [elections](https://paritytech.github.io/substrate/master/pallet\_election\_provider\_multi\_phase/index.html), [referenda](https://paritytech.github.io/substrate/master/pallet\_referenda/index.html)).

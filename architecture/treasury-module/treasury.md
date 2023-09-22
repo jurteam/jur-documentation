@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Treasury.png
+coverY: 0
+---
+
 # Treasury
 
 The Treasury pallet allows a Community to manage a set of Assets (i.e. funds) that it can grant to initiatives led by community members. A Treasury consists of the following:

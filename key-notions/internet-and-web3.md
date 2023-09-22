@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Internet and Web3.png
+coverY: 0
+---
+
 # 🌌 Internet and Web3
 
 State and nation are modern concepts traced back to the [Peace of Westphalia](https://en.wikipedia.org/wiki/Peace\_of\_Westphalia). According to some theses from the 1980s of the last century, it is cultural proximity that has led to the birth of nations of people that create states.

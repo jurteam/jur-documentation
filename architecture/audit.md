@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Audit.png
+coverY: 0
+---
+
 # 🔐 Audit
 
 Leading security firm CertiK is auditing the first Jur Chain release in order to ensure the highest degree of protection for users of the chain.

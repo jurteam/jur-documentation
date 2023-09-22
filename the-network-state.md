@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/The Network State.png
+coverY: 0
+---
+
 # 🌎 The Network State
 
 **A Network State is a State operating through an on-chain social contract, without requiring a physical territory.**

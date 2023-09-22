@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Versioning.png
+coverY: 0
+---
+
 # 🔁 Versioning
 
 Jur’s official documents follow the Semantic Versioning Standard with a 3-digit versioning system:

@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Roadmap.png
+coverY: 0
+---
+
 # ⏩ Roadmap
 
 Jur’s public roadmap is available [here](https://jurproject.notion.site/). In line with the spirit of an evolutionary chain, Jur decided to share a public Roadmap that follows the well-known approach "now, next, future".

@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Jur Token Model Update (1).png
+cover: ../.gitbook/assets/$JUR Token Model.png
 coverY: 0
 ---
 

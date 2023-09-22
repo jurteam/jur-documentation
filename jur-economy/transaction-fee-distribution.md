@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Transaction Fee Distribution.png
+coverY: 0
+---
+
 # 🏛 Transaction Fee Distribution
 
 The use of all the functions in the Jur runtime requires a fee in $JUR tokens; Every user, dApp, or parachain pays an associated fee in $JUR for transactions carried out on the network. Transaction fees are divided into four categories:

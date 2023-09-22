@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Jur Chain.png
+coverY: 0
+---
+
 # ⛓ Jur Chain
 
 The Jur Chain is a Substrate based chain. The Jur Chain integrates the [cumulus](https://github.com/paritytech/cumulus) crate in order to connect securely to the Relay Chain that provides block finalization and security hence making the Jur Chain a parachain, specifically of the Polkadot Relay Chain.

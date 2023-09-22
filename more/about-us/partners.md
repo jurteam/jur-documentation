@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Partners.png
+coverY: 0
+---
+
 # ⚡ Partners
 
 <figure><img src="../../.gitbook/assets/38.png" alt=""><figcaption></figcaption></figure>

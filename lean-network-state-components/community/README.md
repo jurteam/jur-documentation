@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Community.png
+coverY: 0
+---
+
 # 👫 Community
 
 The Community, a body of people who decide to join together for one or more purposes, is the center of every organizational form. The basic form of the Community in Jur is called a Society. A Society is a Web-3 based community created by one or more Founders.

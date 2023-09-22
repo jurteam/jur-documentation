@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/The $JUR Holder Journey.png
+coverY: 0
+---
+
 # The $JUR Holder Journey
 
 Meta-citizenship represents a cross-citizenship across multiple societies built on Jur. $JUR holders can participate directly in societal development through staking. $JUR holders become a meta-citizen by staking a minimum amount of $JUR tokens (5,000 $JUR).&#x20;

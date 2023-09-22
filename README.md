@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/Jur is building tools for the Network State Revolution.png
+coverY: 0
+---
+
 # 🎯 Jur is building tools for the Network State Revolution
 
 <figure><img src=".gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>

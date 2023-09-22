@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Dispute Resolution Module.png
+coverY: 0
+---
+
 # ⚖ Dispute Resolution Module
 
 The Dispute Resolution module allows the creation of a dispute between two parties in a flexible manner. This module consists of three pallets: Court, Dispute and Judgement.

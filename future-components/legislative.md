@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Legislative.png
+coverY: 0
+---
+
 # ✍ Legislative
 
 The legislative module enables the creation of DAOs that approve and maintain Standards, Rules and forms of rules in a decentralized and opt-in manner.

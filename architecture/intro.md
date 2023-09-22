@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Intro.png
+coverY: 0
+---
+
 # 🔤 Intro
 
 Jur is a Layer 1 blockchain built with the [Substrate](https://docs.substrate.io/) framework and that will become a parachain on the Polkadot Relay Chain through [Cumulus](https://github.com/paritytech/cumulus).

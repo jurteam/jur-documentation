@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Insurance.png
+coverY: 0
+---
+
 # ⚓ Insurance
 
 Ultimately, governments and states are abstracted forms of insurance. In abstract terms, the same concept of a society with it's own “supporting personal network” is a form of reciprocal insurance: “Family and friends take care of me and loved ones in case of need.”

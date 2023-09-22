@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Proposal.png
+coverY: 0
+---
+
 # Proposal
 
 This pallet allows the Community to signal its sentiment on-chain . A Proposal can be used to change the value of the settings of a Community.

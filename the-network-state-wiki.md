@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/The Network State Wiki.png
+coverY: 0
+---
+
 # 🪟 The Network State Wiki
 
 As you have seen this whole concept of the Network State is new, and this is why the Jur community came together and created as a community effort [this Wiki](https://gitbook.jur.io/wiki-network-state/).

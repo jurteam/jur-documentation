@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Community-1.png
+coverY: 0
+---
+
 # Community
 
 This pallet allows the creation of a Community which is the foundational building block of a future Network State.

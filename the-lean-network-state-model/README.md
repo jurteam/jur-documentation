@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/The Lean Network State Model.png
+coverY: 0
+---
+
 # 🏴 The Lean Network State Model
 
 Jur offers a complete, evolutionary, modular and agnostic stack to create societies, Network States and versions in between. To do this, Jur offers a number of self-contained components that can be used independently or together.

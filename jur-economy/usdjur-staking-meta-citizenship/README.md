@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/$JUR Staking_ Meta-Citizenship (1).png
+coverY: 0
+---
+
 # 🦹 $JUR Staking: Meta-Citizenship
 
 Given the scope of the Jur ecosystem, each Society will have its own internal economy. For some it will be informal; for others it will be  formalized with a native cryptocurrency.

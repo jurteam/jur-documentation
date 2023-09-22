@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/The Interaction of Society and Technology.png
+coverY: 0
+---
+
 # 🗽 The Interaction of Society and Technology
 
 In 2014, [Gavin Wood](https://www.coindesk.com/tech/2021/12/08/most-influential-40-gavin-wood/) wrote a foundational [article](http://gavwood.com/dappsweb3.html) describing Web3; here’s an excerpt:
